@@ -6,12 +6,17 @@
     <Authors>wyvern_social</Authors>
     <Company>Wyvern Social</Company>
     <Description>Wyvern Fluent Language (WFLU) - lightweight i18n service</Description>
+    <PackageTags>i18n;localization;WFLU;fluent;dotnet</PackageTags>
+    <RepositoryUrl>https://github.com/wyvern-social/WFLU</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <RootNamespace>WFLU</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <Copyright>Copyright © Wyvern Social 2025</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
